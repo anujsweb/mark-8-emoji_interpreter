@@ -1,2 +1,2 @@
 # emoji_interpreter
-Created with CodeSandbox
+Created with CodeSandbox. Interpret emojis.
