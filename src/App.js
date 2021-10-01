@@ -6,7 +6,12 @@ var emojiDictionary = {
   "🍒": "cherries",
   "🍓": "strawberry",
   "🍍": "pineapple",
-  "🍉": "watermelon"
+  "🍉": "watermelon",
+  "❤️": "Red Heart",
+  "🔥": "Fire",
+  "👍": "Thumbs Up",
+  "😊": "Smiling Face with Smiling Eyes",
+  "✔️": "Check Mark"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
