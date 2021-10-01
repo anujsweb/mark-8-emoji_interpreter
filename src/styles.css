@@ -6,3 +6,8 @@
 body {
   background-color: rgb(245, 100, 100);
 }
+
+h1 {
+  padding: 1rem;
+  color: gold;
+}
